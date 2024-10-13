@@ -14,7 +14,7 @@ To build the `fsex` program, you will need the following tools installed:
 
 1. Clone the repository and navigate to its directory:
    ```bash
-   git clone https://github.com/your-username/fsex.git
+   git clone https://github.com/Triendster/fsex.git
    cd fsex
    ```
 
